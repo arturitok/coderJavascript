@@ -1,0 +1,98 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Remera del mas grande",
+    "categoria": "Remeras",
+    "imagen": "img/productos/imagen1.jpg",
+    "precio": 11200,
+    "stock": 10
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Short 0 descensos",
+    "categoria": "Short",
+    "imagen": "img/productos/imagen2.jpg",
+    "precio": 7800,
+    "stock": 12
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Kit chicos muy grandes",
+    "categoria": "Combos",
+    "imagen": "img/productos/imagen3.jpg",
+    "precio": 12300,
+    "stock": 20
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Cap NUNCA de la B",
+    "categoria": "Accesorios",
+    "imagen": "img/productos/imagen4.jpg",
+    "precio": 3200,
+    "stock": 100
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Buzo cool",
+    "categoria": "Abrigos",
+    "imagen": "img/productos/imagen5.jpg",
+    "precio": 14000,
+    "stock": 5
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Campera invencible",
+    "categoria": "Abrigos",
+    "imagen": "img/productos/imagen6.jpg",
+    "precio": 31200,
+    "stock": 10
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Musculosa sin manchas",
+    "categoria": "Remeras",
+    "imagen": "img/productos/imagen7.jpg",
+    "precio": 6200,
+    "stock": 8
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Musculosa sin mangas",
+    "categoria": "Remeras",
+    "imagen": "img/productos/imagen8.jpg",
+    "precio": 8300,
+    "stock": 10
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Remerita nomas",
+    "categoria": "Remeras",
+    "imagen": "img/productos/imagen9.jpg",
+    "precio": 3200,
+    "stock": 10
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Remera negro futuro",
+    "categoria": "Remeras",
+    "imagen": "img/productos/imagen10.jpg",
+    "precio": 5800,
+    "stock": 17
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Zapatillas solo deportes",
+    "categoria": "Zapatillas",
+    "imagen": "img/productos/imagen11.jpg",
+    "precio": 21800,
+    "stock": 10
+  },
+  {
+    "codigo": 12,
+    "descripcion": "ZapatillaZapa",
+    "categoria": "Zapatillas",
+    "imagen": "img/productos/imagen12.jpg",
+    "precio": 7800,
+    "stock": 10
+  }
+]
